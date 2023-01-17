@@ -2,25 +2,25 @@ const data = {
     "_id": {
       "$oid": "621fe1f527d68ebb24438395"
     },
-    "professionalName": "Nathan Birch",
+    "professionalName": "Parker Mortensen",
     "nameLink": {
-      "firstName": "Nathan",
-      "url": "https://nathanbirch.netlify.app/"
+      "firstName": "Parker",
+      "url": "https://github.com/ParaguaySnowman"
     },
-    "firstName": "Nathan",
-    "primaryDescription": " is a professor at BYU-Idaho",
-    "workDescription1": "He is a full-stack web developer and mobile application developer.",
-    "workDescription2": "He teaches lots of programming and web development classes.",
+    "firstName": "Parker",
+    "primaryDescription": "Backend Web Development Student",
+    "workDescription1": "Student",
+    "workDescription2": "Technical Support Agent",
     "linkTitleText": "Check out his work below",
     "linkedInLink": {
-      "link": "https://www.linkedin.com/in/nathantbirch/",
+      "link": "https://www.linkedin.com/in/parkerbmortensen/",
       "text": "LinkedIn"
     },
     "githubLink": {
-      "link": "https://github.com/nathanbirch",
+      "link": "https://github.com/ParaguaySnowman",
       "text": "GitHub"
     },
-    "contactText": "Feel free to contact him at birchn@byui.edu if you'd like for him to work for you!"
+    "contactText": "We do more when we do it together."
 };
 
 exports.getData = (req, res, next) => {
